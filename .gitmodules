@@ -7,3 +7,6 @@
 [submodule "content/themes/readium"]
 	path = content/themes/readium
 	url = https://github.com/starburst1977/readium.git
+[submodule "content/themes/ghostium"]
+	path = content/themes/ghostium
+	url = https://github.com/oswaldoacauan/ghostium.git
