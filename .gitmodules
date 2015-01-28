@@ -4,3 +4,6 @@
 [submodule "content/themes/portfolio"]
 	path = content/themes/portfolio
 	url = https://github.com/Tanatic/Portfolio-Free-Ghost-Theme.git
+[submodule "content/themes/readium"]
+	path = content/themes/readium
+	url = https://github.com/starburst1977/readium.git
